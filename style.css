@@ -1,0 +1,57 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid lightblue;
+}
+
+.Biggy1 {
+    width: 80%;
+
+}
+
+#start {
+    font-size: 50px;
+}
+
+.statusZ {
+    background-color: black;
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+    width: 20%;
+}
+
+.statusZ:hover {
+    background-color: red;
+    font-family: monospace;
+}
+#canvas {
+    border: 2px dashed red;
+    box-shadow: 5px 6px 7px green;
+}
+h4 {
+background-color: brown;
+line-height: 2;
+margin: 0px;
+}
+.modal-dialog {
+    width: 90%;
+}
+.image_i {
+    width: 40%;
+    display: inline-block;
+}
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding:25px
+}
